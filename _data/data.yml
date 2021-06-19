@@ -24,11 +24,9 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Mandarin
+        level: Native
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Soccer
@@ -47,6 +45,7 @@ career-profile:
       Completing tasks in punctual manner and paying attention to detail when meeting deadlines. 
       A team player and has leadership capabilities regarding any project managements. 
       Eager to learn more and self-motivated, always room to learn more in the field. 
+
 education:
     - degree: Bachelor of Technology in Networking and Security
       university: CUNY New York City College of Technology
@@ -59,17 +58,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    
 experiences:
     - role: Lead Developer
       time: 2015 - Present
