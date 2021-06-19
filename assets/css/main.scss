@@ -6,3 +6,6 @@
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
+body {
+background-color: #a9a9a9;
+}
