@@ -31,24 +31,22 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Soccer
         link:
 
-      - item: Snowboarding
+      - item: Biking
         link:
 
-      - item: Cooking
+      - item: Longboarding
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile Background
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      IT support and networking with over 2+ years of experience along with attention to detail. 
+      Completing tasks in punctual manner and paying attention to detail when meeting deadlines. 
+      A team player and has leadership capabilities regarding any project managements. 
+      Eager to learn more and self-motivated, always room to learn more in the field. 
 education:
     - degree: MSc in Computer Science
       university: University of London
