@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Lih Yang Lee
-    tagline: Network Security
+    tagline: IT Support/Network Security
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -37,9 +37,12 @@ sidebar:
 
       - item: Longboarding
         link:
+      
+      - item: Customize HTML page
+        link:
 
 career-profile:
-    title: Profile Background
+    title: Background
     summary: |
       IT support and networking with over 2+ years of experience along with attention to detail. 
       Completing tasks in punctual manner and paying attention to detail when meeting deadlines. 
@@ -67,14 +70,14 @@ experiences:
       time: 2014 - present
       company: Whitestone Lanes, NYC
       details: |
-        •	Manage payment and equipment
-        •	Provide technical support for lanes computer system
-        •	Supervise all events and tournaments
-        •	Managing active directory of users 
+        - Manage payment and equipment
+        - Provide technical support for lanes computer system
+        - Supervise all events and tournaments
+        - Managing active directory of users 
 
 
 projects:
-    title: Projects
+    title: DiY Projects
 
     assignments:
       - title: MagicMirror
