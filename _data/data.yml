@@ -78,31 +78,36 @@ projects:
 
     assignments:
       - title: MagicMirror
-        link: "https://github.com/MichMich/MagicMirror"
-        tagline: "A simple display Mirror combine with Raspberry pi 3B+ to convert any mirror into a personal smart mirror."
+        link: "https://github.com/lilyangsta/MagicMirror"
+        tagline: "A simple display Mirror module combine with Raspberry pi 3B+ to convert any mirror into a personal smart mirror."
         
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
+    
+      - name: Remote Desktop Softwares
+        level: 90%
+        
+      - name: Microsoft Office (Word, Excel, PowerPoint, Outlook)
+        level: 80%
+        
+      - name: Mac/Windows/Linux OS
+        level: 75%
+        
+      - name: Routers & Switches & Servers
+        level: 70%
+      
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+        level: 65%
+        
+      - name: C++ & Python
         level: 60%
+        
+      - name: Java & Javascript
+        level: 55%
+
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">LihYang Lee</a>
