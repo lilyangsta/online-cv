@@ -2,7 +2,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: $text-color-secondary;
-    background: $background-image;
+    background: $background-image no-repeat center center fixed;
 	-webkit-background-size: cover;
  	-moz-background-size: cover;
   	-o-background-size: cover;
