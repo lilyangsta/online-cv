@@ -56,8 +56,9 @@ education:
    
     
 experiences:
-    - role: IT Support
+    - 
       company: KEST Business Solution Partner, NYC
+      role: IT Support
       time: 2020 - Present
       details: |
         - Troubleshoot network infrastructures, workstations, dentist related hardware and software.
@@ -66,8 +67,9 @@ experiences:
         - Perform weekly checkup routine for client’s server backup system
 
     
-    - role: Front Desk Manager 
+    - 
       company: Whitestone Lanes, NYC
+      role: Front Desk Manager 
       time: 2014 - present
       details: |
         - Manage payment and equipment
