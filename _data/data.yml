@@ -50,14 +50,7 @@ education:
     - degree: Bachelor of Technology in Networking and Security
       university: CUNY New York City College of Technology
       time: May 2020
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+   
     
 experiences:
     - role: IT Support
@@ -70,43 +63,23 @@ experiences:
         - Perform weekly checkup routine for client’s server backup system
 
     
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Front Desk Manager 
+      time: 2014 - present
+      company: Whitestone Lanes, NYC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        •	Manage payment and equipment
+        •	Provide technical support for lanes computer system
+        •	Supervise all events and tournaments
+        •	Managing active directory of users 
+
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: MagicMirror
+        link: "https://github.com/MichMich/MagicMirror"
+        tagline: "A simple display Mirror combine with Raspberry pi 3B+ to convert any mirror into a personal smart mirror."
         
 
 skills:
