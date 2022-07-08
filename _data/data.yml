@@ -29,6 +29,9 @@ sidebar:
 
 
     interests:
+      - item: NFT Collector
+        link: https://opensea.io/account
+        
       - item: Soccer
         link:
 
@@ -37,9 +40,10 @@ sidebar:
 
       - item: Longboarding
         link:
-      
+        
       - item: Customize HTML page
-        link:
+        link:  
+        
 
 career-profile:
     title: Background
