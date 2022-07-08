@@ -74,7 +74,7 @@ experiences:
     - 
       company: Whitestone Lanes, NYC
       role: Front Desk Manager 
-      time: 2014 - present
+      time: 2014 - 2021
       details: |
         - Manage payment and equipment
         - Provide technical support for lanes computer system
@@ -102,19 +102,16 @@ skills:
       - name: Microsoft Office (Word, Excel, PowerPoint, Outlook)
         level: 80%
         
-      - name: Mac/Windows/Linux OS
+      - name: Mac && Windows && Linux OS
         level: 75%
         
-      - name: Routers & Switches & Servers
+      - name: Routers && Switches && Servers
         level: 70%
-      
-      - name: HTML5 & CSS
+        
+      - name: Surveillance equipments installation 
         level: 65%
         
-      - name: C++ & Python
-        level: 60%
-        
-      - name: Java & Javascript
+      - name: Java && JS && C++ && Python && HTML5
         level: 55%
 
 
