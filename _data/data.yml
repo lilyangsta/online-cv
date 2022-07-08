@@ -96,7 +96,7 @@ skills:
 
     toolset:
     
-      - name: Remote Desktop Softwares
+      - name: Remote Desktop Software
         level: 90%
         
       - name: Microsoft Office (Word, Excel, PowerPoint, Outlook)
@@ -105,10 +105,10 @@ skills:
       - name: Mac && Windows && Linux OS
         level: 75%
         
-      - name: Routers && Switches && Servers
+      - name: Networking Equipments
         level: 70%
         
-      - name: Surveillance equipments installation 
+      - name: Surveillance Equipments 
         level: 65%
         
       - name: Java && JS && C++ && Python && HTML5
