@@ -57,7 +57,7 @@ career-profile:
       Eager to improve and self-motivated, always room to learn more in the field. 
 
 education:
-    - degree: Bachelor of Technology in Networking and Security
+    - degree: Bachelor of Technology in Computer System Technology 
       university: CUNY New York City College of Technology
       time: May 2020
    
@@ -68,22 +68,22 @@ experiences:
       role: IT Support
       time: 2020 - Present
       details: |
-        - Troubleshoot network infrastructures, workstations, dentist related hardware and software.
-        - Provide remote and phone support for clients   
-        - Set up camera systems, networking equipment, workstations, VOIP phones, and multimedia systems
-        - Perform weekly checkup routine for client’s server backup system and NAS 
-
+        - Troubleshoot POE Netgear switches, VPN Sonicwall routers, Ubiquiti/Unifi mesh system
+        - Assisting users with new workstations, dental management and accounting related software   
+        - Utilize remote support tools such as TeamViewer, LogMeIn, Splashtop and VNC 
+        - Provide in-person, email and over the phone support for over 130 clients 
+        - Setup IP camera systems, Windows devices, mobile devices, VOIP devices, and multimedia systems
+        - Provide server maintenance for client’s Windows server backup and NAS
     
     - 
       company: Whitestone Lanes, NYC
       role: Front Desk Manager 
       time: 2014 - 2021
       details: |
-        - Manage payment and equipment
-        - Provide technical support for lanes computer system
-        - Supervise all events and tournaments
-        - Managing active directory of users 
-
+        - Managed network Point-Of-Sale systems, ensuring minimal downtime
+        - Supervised 48 bowling lanes via QUBICA AMF computer systems
+        - Facilitated weekly bowling events and tournaments
+        - Maintained Active Directory on windows 2008, managing users and group policy
 
 projects:
     title: DiY Projects
@@ -102,16 +102,16 @@ skills:
       - name: Remote Desktop Software
         level: 90%
         
-      - name: Microsoft Office (Word, Excel, PowerPoint, Outlook)
+      - name: Microsoft Office 365(Word, Excel, PowerPoint, Outlook)
         level: 80%
         
-      - name: Mac && Windows && Linux OS
+      - name: Mac OS && Windows(7/10/11) && Linux OS
         level: 75%
         
-      - name: Networking Equipments
+      - name: Virtualizations: VMware and VirtualBox
         level: 70%
         
-      - name: Surveillance Equipments 
+      - name: Security Camera: Invid and HikVision
         level: 65%
         
       - name: Java && JS && C++ && Python && HTML5
