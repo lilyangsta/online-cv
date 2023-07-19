@@ -104,6 +104,9 @@ skills:
         
       - name: Microsoft Office 365(Word, Excel, PowerPoint, Outlook)
         level: 85%
+
+      - name: Invid && HikVision
+        level: 80%
         
       - name: Mac OS && Windows(7/10/11) && Linux OS
         level: 75%
@@ -111,11 +114,8 @@ skills:
       - name: VMware && VirtualBox
         level: 70%
         
-      - name: Invid && HikVision
-        level: 65%
-        
       - name: Java && JS && C++ && Python && HTML5
-        level: 55%
+        level: 65%
 
 
 footer: >
