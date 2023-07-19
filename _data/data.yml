@@ -29,6 +29,10 @@ sidebar:
 
 
     interests:
+
+      - item: Drone Photography
+        link: https://www.skypixel.com/users/djiuser-i7ug8qjeessb
+        
       - item: NFT Collector
         link: https://opensea.io/lilyg?search[sortBy]=CREATED_DATE&search[sortAscending]=false&fbclid=IwAR1tm0vJutsrwQ5s7IqCCKR2qSiVHb8iLgGPU9nnumotAU0iBCTs0Dv5myg
       - item: Soccer
@@ -67,7 +71,7 @@ experiences:
         - Troubleshoot network infrastructures, workstations, dentist related hardware and software.
         - Provide remote and phone support for clients   
         - Set up camera systems, networking equipment, workstations, VOIP phones, and multimedia systems
-        - Perform weekly checkup routine for client’s server backup system
+        - Perform weekly checkup routine for client’s server backup system and NAS 
 
     
     - 
