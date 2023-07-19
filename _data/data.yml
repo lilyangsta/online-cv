@@ -108,10 +108,10 @@ skills:
       - name: Mac OS && Windows(7/10/11) && Linux OS
         level: 75%
         
-      - name: Virtualizations: VMware && VirtualBox
+      - name: VMware && VirtualBox
         level: 70%
         
-      - name: Security Camera: Invid && HikVision
+      - name: Invid && HikVision
         level: 65%
         
       - name: Java && JS && C++ && Python && HTML5
