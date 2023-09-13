@@ -74,6 +74,7 @@ experiences:
         - Provide in-person, email and over the phone support for over 130 clients 
         - Setup IP camera systems, Windows devices, mobile devices, VOIP devices, and multimedia systems
         - Provide server maintenance for client’s Windows server backup and NAS
+        - Perform workstation and password recovery using Windows PE.
     
     - 
       company: Whitestone Lanes, NYC
@@ -111,7 +112,7 @@ skills:
       - name: Mac OS && Windows(7/10/11) && Linux OS
         level: 75%
         
-      - name: VMware && VirtualBox
+      - name: Hyper-V Manager && VirtualBox
         level: 70%
         
       - name: Java && JS && C++ && Python && HTML5
